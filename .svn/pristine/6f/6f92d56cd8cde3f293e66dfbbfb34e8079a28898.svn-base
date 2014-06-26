@@ -1,0 +1,60 @@
+2014-01-23 12:27:59 Error: [MissingPluginException] Plugin AclExtras could not be found.
+Exception Attributes: array (
+  'plugin' => 'AclExtras',
+)
+Stack Trace:
+#0 E:\xampp\htdocs\billing-vci\lib\Cake\Core\CakePlugin.php(74): CakePlugin::load('AclExtras', Array)
+#1 E:\xampp\htdocs\billing-vci\app\Config\bootstrap.php(115): CakePlugin::load(Array)
+#2 E:\xampp\htdocs\billing-vci\lib\Cake\Core\Configure.php(94): include('E:\xampp\htdocs...')
+#3 E:\xampp\htdocs\billing-vci\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#4 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(132): require('E:\xampp\htdocs...')
+#5 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(100): ShellDispatcher->_bootstrap()
+#6 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(56): ShellDispatcher->_initEnvironment()
+#7 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(67): ShellDispatcher->__construct(Array)
+#8 E:\xampp\htdocs\billing-vci\app\Console\cake.php(37): ShellDispatcher::run(Array)
+#9 {main}
+2014-01-23 12:30:14 Error: [MissingPluginException] Plugin AclExtras could not be found.
+Exception Attributes: array (
+  'plugin' => 'AclExtras',
+)
+Stack Trace:
+#0 E:\xampp\htdocs\billing-vci\lib\Cake\Core\CakePlugin.php(74): CakePlugin::load('AclExtras', Array)
+#1 E:\xampp\htdocs\billing-vci\app\Config\bootstrap.php(115): CakePlugin::load(Array)
+#2 E:\xampp\htdocs\billing-vci\lib\Cake\Core\Configure.php(94): include('E:\xampp\htdocs...')
+#3 E:\xampp\htdocs\billing-vci\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#4 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(132): require('E:\xampp\htdocs...')
+#5 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(100): ShellDispatcher->_bootstrap()
+#6 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(56): ShellDispatcher->_initEnvironment()
+#7 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(67): ShellDispatcher->__construct(Array)
+#8 E:\xampp\htdocs\billing-vci\app\Console\cake.php(37): ShellDispatcher::run(Array)
+#9 {main}
+2014-01-23 12:47:02 Error: [MissingPluginException] Plugin AclExtras could not be found.
+Exception Attributes: array (
+  'plugin' => 'AclExtras',
+)
+Stack Trace:
+#0 E:\xampp\htdocs\billing-vci\lib\Cake\Core\CakePlugin.php(74): CakePlugin::load('AclExtras', Array)
+#1 E:\xampp\htdocs\billing-vci\app\Config\bootstrap.php(115): CakePlugin::load(Array)
+#2 E:\xampp\htdocs\billing-vci\lib\Cake\Core\Configure.php(94): include('E:\xampp\htdocs...')
+#3 E:\xampp\htdocs\billing-vci\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#4 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(132): require('E:\xampp\htdocs...')
+#5 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(100): ShellDispatcher->_bootstrap()
+#6 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(56): ShellDispatcher->_initEnvironment()
+#7 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(67): ShellDispatcher->__construct(Array)
+#8 E:\xampp\htdocs\billing-vci\app\Console\cake.php(37): ShellDispatcher::run(Array)
+#9 {main}
+2014-01-23 12:47:28 Error: [MissingPluginException] Plugin AclExtras could not be found.
+Exception Attributes: array (
+  'plugin' => 'AclExtras',
+)
+Stack Trace:
+#0 E:\xampp\htdocs\billing-vci\lib\Cake\Core\CakePlugin.php(74): CakePlugin::load('AclExtras', Array)
+#1 E:\xampp\htdocs\billing-vci\app\Config\bootstrap.php(115): CakePlugin::load(Array)
+#2 E:\xampp\htdocs\billing-vci\lib\Cake\Core\Configure.php(94): include('E:\xampp\htdocs...')
+#3 E:\xampp\htdocs\billing-vci\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#4 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(132): require('E:\xampp\htdocs...')
+#5 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(100): ShellDispatcher->_bootstrap()
+#6 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(56): ShellDispatcher->_initEnvironment()
+#7 E:\xampp\htdocs\billing-vci\lib\Cake\Console\ShellDispatcher.php(67): ShellDispatcher->__construct(Array)
+#8 E:\xampp\htdocs\billing-vci\app\Console\cake.php(37): ShellDispatcher::run(Array)
+#9 {main}
